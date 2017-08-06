@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mushinContent>
+	<journal>
+		<blog>
+			<title> From the Moutaintops...</title>
+			<date>
+				<month> 3 </month>
+				<day> 8 </day>
+				<year> 2017 </year>
+			</date>
+			<content>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi finibus urna euismod lorem faucibus, id fermentum lectus placerat. Cras imperdiet nisl lacus, nec fermentum nulla maximus ut. In hac habitasse platea dictumst. Curabitur libero nibh, dignissim vel tincidunt in, commodo vitae lectus. Vivamus quis turpis semper, eleifend mauris id, eleifend nunc. Fusce imperdiet mauris ut tellus posuere, quis scelerisque odio fermentum. Pellentesque vehicula maximus arcu in tristique. Nulla facilisi....	
+
+			</content>
+		</blog>
+		<blog>
+			<title> Blag 2 </title>
+			<date>
+				<month> 1 </month>
+				<day> 12 </day>
+				<year> 2019 </year>
+			</date>
+			<content>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi finibus urna euismod lorem faucibus, id fermentum lectus placerat. Cras imperdiet nisl lacus, nec fermentum nulla maximus ut. In hac habitasse platea dictumst. Curabitur libero nibh, dignissim vel tincidunt in, commodo vitae lectus. Vivamus quis turpis semper, eleifend mauris id, eleifend nunc. Fusce imperdiet mauris ut tellus posuere, quis scelerisque odio fermentum. Pellentesque vehicula maximus arcu in tristique. Nulla facilisi. Maecenas iaculis diam at aliquet varius. Vivamus eget ante mauris. Sed ac suscipit nulla. Pellentesque vulputate lectus ex, non sollicitudin nulla accumsan ac.Donec tempor neque id massa viverra, ac vulputate metus tempus. Nullam tincidunt vulputate metus. Sed gravida sapien vel ligula molestie, non fringilla enim aliquet. Sed sagittis justo libero, in placerat nisl mattis ac. Proin finibus aliquet purus quis commodo. Pellentesque cursus, orci nec commodo viverra, tortor lorem dignissim nisi, ac maximus augue dolor non dui. Sed sed arcu orci. Nulla nec sem mi. Pellentesque auctor dictum libero eget interdum. Duis purus mauris, dapibus a aliquam ultricies, hendrerit vitae purus. Mauris scelerisque nisi vitae eros luctus tincidunt. Proin ornare et erat non dignissim. Proin lobortis non diam eu venenatis. Etiam maximus lobortis iaculis. Pellentesque porta consequat neque, sit amet fringilla turpis dapibus vitae.Integer tempor risus eu justo hendrerit interdum. Vivamus laoreet interdum libero, at varius elit elementum et. Aenean vel blandit nisi. Mauris rhoncus mollis felis, a laoreet nibh fringilla eget. Curabitur luctus consectetur quam at eleifend. Vestibulum et consectetur ipsum. Curabitur tempor pulvinar pellentesque.	
+			</content>
+		</blog>
+		<blog>
+			<title> Blag 3 </title>
+			<date>
+				<month> 1 </month>
+				<day> 12 </day>
+				<year> 2019 </year>
+			</date>
+			<content>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi finibus urna euismod lorem faucibus, id fermentum lectus placerat. Cras imperdiet nisl lacus, nec fermentum nulla maximus ut. In hac habitasse platea dictumst. Curabitur libero nibh, dignissim vel tincidunt in, commodo vitae lectus. Vivamus quis turpis semper, eleifend mauris id, eleifend nunc. Fusce imperdiet mauris ut tellus posuere, quis scelerisque odio fermentum. Pellentesque vehicula maximus arcu in tristique. Nulla facilisi. Maecenas iaculis diam at aliquet varius. Vivamus eget ante mauris. Sed ac suscipit nulla. Pellentesque vulputate lectus ex, non sollicitudin nulla accumsan ac.Donec tempor neque id massa viverra, ac vulputate metus tempus. Nullam tincidunt vulputate metus. Sed gravida sapien vel ligula molestie, non fringilla enim aliquet. Sed sagittis justo libero, in placerat nisl mattis ac. Proin finibus aliquet purus quis commodo. Pellentesque cursus, orci nec commodo viverra, tortor lorem dignissim nisi, ac maximus augue dolor non dui. Sed sed arcu orci. Nulla nec sem mi. Pellentesque auctor dictum libero eget interdum. Duis purus mauris, dapibus a aliquam ultricies, hendrerit vitae purus. Mauris scelerisque nisi vitae eros luctus tincidunt. Proin ornare et erat non dignissim. Proin lobortis non diam eu venenatis. Etiam maximus lobortis iaculis. Pellentesque porta consequat neque, sit amet fringilla turpis dapibus vitae.Integer tempor risus eu justo hendrerit interdum. Vivamus laoreet interdum libero, at varius elit elementum et. Aenean vel blandit nisi. Mauris rhoncus mollis felis, a laoreet nibh fringilla eget. Curabitur luctus consectetur quam at eleifend. Vestibulum et consectetur ipsum. Curabitur tempor pulvinar pellentesque.	
+			</content>
+		</blog>
+	</journal>
+
+	<games>
+				<game>
+					<gameTitle> Sweet Fish Odyssey (PC) </gameTitle>
+					<gameBanner type='pic'>content/games/gameTitleThumbs/SfishTitleThumb.png </gameBanner>
+					<gameMedia>
+						<media type="pic">content/games/SFO/screen1.png </media> 
+						<media type="pic">content/games/SFO/screen2.png  </media> 
+						<media type="pic">content/games/SFO/screen3.png </media> 
+					</gameMedia>
+					<gameDetail>
+						<gDetail>Deep in the forest of Lolite Lakes holds a secret that only few anglers know about. Sweet Fish Odyssey is a SHUMP (shoot 'em up) which you play Chico,the unbelevably strong parakeet, who just grabbed the greatest fish known to man,  the Golden Aura Catfish. Little is known about this great creature but it seems to have the power to attract other wild life to it, for it's benefit or their tasty meal for the day. Luckly it can eat anything it can fit in its mouth and use that enegry to shoot down those predators it can't eat. All Chico needs to do is make it back to the boat...</gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle> Alpha Build(16.3mb) </linkTitle>
+						<gameFile>content/games/Cwork/wip/SFO/FlyBirdCompletev1_2.exe</gameFile>
+					</playLink>
+					<gameUpdate>  </gameUpdate>
+				</game>
+				<game>
+					<gameTitle> Canyon Hoppers </gameTitle>
+					<gameBanner type='pic'>content/games/gameTitleThumbs/cHopperTitle.png</gameBanner>
+					<gameMedia>
+						<media type="pic">content/games/Chop/scrn1.png </media> 
+						<media type="pic">content/games/Chop/scrn2.png </media> 
+						<media type="pic">content/games/Chop/scrn3.png </media> 
+					</gameMedia>
+					<gameDetail>
+						<gDetail>Help these little hoppers cross the canyon by moving the lilynimbus pads and catching them along the way. Watch out for falling space junk!!
+						A game inspired by those old panic type Game and Watch games.	</gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle> PLAY NOW! </linkTitle>
+						<gameFile>http://www.newgrounds.com/portal/view/623870 </gameFile>
+					</playLink>
+				</game>
+	
+				<game>
+					<gameTitle> Flappy Chef</gameTitle>
+					<gameBanner type='pic'> content/games/gameTitleThumbs/flappyChef.png </gameBanner>
+					<gameMedia>
+						<media type="flash" width='950' height='570'>content/games/jams/Flappppp.swf </media> 
+					</gameMedia>
+					<gameDetail>
+						<gDetail>Did it for a game jam. I had to create a game inspired by the infamous Flappy Bird. Which means mostly ripping off other game assets and keeping the gameplay simple and unforgiving.	</gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle>   </linkTitle>
+						<gameFile>  </gameFile>
+					</playLink>
+				</game>
+					<game>
+					<gameTitle> REM First Dream</gameTitle>
+					<gameBanner type='pic'> content/games/gameTitleThumbs/nremTitle.png </gameBanner>
+					<gameMedia>
+						<media type="flash" width="800" height="500" >content/games/nREM/nRemPro.swf </media>
+					</gameMedia>
+					<gameDetail>
+						<gDetail> It's a bullet hell based on dreams. </gDetail>
+						<gDetail> CONTROLS: Movement: Arrows or WASD  J(tap):Power Shot  J:(Hold):Wideshot  K:BulletParry  SPACEBAR:Pholey Cannon  MECHANICS: When you're hit by a PURPLE bullet you have a chance to parry it by pressing K. Successful parries creates dream cores. The more dream cores you collect the bigger your Pholey cannon blast. </gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle>   </linkTitle>
+						<gameFile>  </gameFile>
+					</playLink>
+				</game>
+				<game>
+					<gameTitle>Capsule Corp version 2 </gameTitle>
+					<gameBanner type='pic'>content/games/gameTitleThumbs/capCorpTitle.png </gameBanner>
+					<gameMedia>
+						<media type="flash" width="700" height="400" >content/games/GBv2/CCorp_v20.swf </media>
+					</gameMedia>
+					<gameDetail>
+						<gDetail>First attempt at a horizontal SHUMP. You're Ken, technical director at CapCorp who is just about to head home after a long day. That is, until the security system malfunctions... </gDetail>
+						<gDetail>Reach the right of the stage before the gate closes MOVEMENT: WASD   J: Shoot left  K: Shoot right    OTHER NOTES:  This game was my first attempt at Sprite blitting . I wanted alot of bullets and though this was the way to squeeze out more performance but it's not the case after reading into it more</gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle>   </linkTitle>
+						<gameFile>  </gameFile>
+					</playLink>
+				</game>
+				<game>
+					<gameTitle>Capsule Corp version 1 </gameTitle>
+					<gameBanner type='pic'>content/games/gameTitleThumbs/gateBusterTitle.png </gameBanner>
+					<gameMedia>
+						<media type="flash" width="550" height="800" >content/games/GBv1/GB.swf </media>
+					</gameMedia>
+					<gameDetail>
+						<gDetail>First attempt at a vertical SHUMP. You're a Security maintnence ship that gets caught in the middle of a security system gone haywire.</gDetail>
+						<gDetail>INSTRUCTIONS: Reach the top of the screen before the end gate closes. CONTROLS: Arrows:Movement  Z: Star Shot  X: Single Shot</gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle>   </linkTitle>
+						<gameFile>  </gameFile>
+					</playLink>
+				</game>
+				<game>
+					<gameTitle>Cargo Crush </gameTitle>
+					<gameBanner type='pic'>content/games/gameTitleThumbs/cCrush.png </gameBanner>
+					<gameMedia>
+						<media type="flash" width="450" height="600"> content/games/CCargov02/CargoCrush.swf </media>
+					</gameMedia>
+					<gameDetail>
+						<gDetail>A single screen arcade game where you control a crane to lift boxes and drop them on the heads of cargo trolls. </gDetail>
+						<gDetail> CONTROLS: Movement:WASD  Left Click: Lower Crane </gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle>   </linkTitle>
+						<gameFile>  </gameFile>
+					</playLink>
+				</game>
+				<game>
+					<gameTitle> Heart Shards </gameTitle>
+					<gameBanner type='pic'>content/games/gameTitleThumbs/heartShardsTitle.png </gameBanner>
+					<gameMedia>
+						<media type="flash" width="750" height="400" >content/games/HeartShards/HSver1.swf </media>
+					</gameMedia>
+					<gameDetail>
+						<gDetail>Came up with this idea on Valentines day. Eros is tasked to expose the broken hearts of the brokenhearted and repair them. You have to shoot the heartbroken to expose their heart. Touch it to repair it.</gDetail>
+						<gDetail>CONTROLS:  Movement: WASD  J(tap): Normal shot  J(hold &amp; release)Pierce Shot </gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle>   </linkTitle>
+						<gameFile>  </gameFile>
+					</playLink>
+				</game>
+				<game>
+					<gameTitle>The Mesa Champ </gameTitle>
+					<gameBanner type='pic'>content/games/gameTitleThumbs/mesaTitle.png </gameBanner>
+					<gameMedia>
+						<media type="flash" width="800" height="600" >content/games/MesaChamp/TMC.swf </media>
+					</gameMedia>
+					<gameDetail>
+						<gDetail> A wrestling themed beat 'em up. Got some plans with this idea.</gDetail>
+						<gDetail>CONTROLS: Movement: WASD  I:chop Attack J: Grapple   Dash:double tap A or D  (try dashing into the turnbuckle)</gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle>   </linkTitle>
+						<gameFile>  </gameFile>
+					</playLink>
+				</game>
+					<!--SWF is brokin :'( 
+				<game>
+					<gameTitle> Khromulan Advance </gameTitle>
+					<gameMedia>
+						<media type="flash" width="750" height="400" >content/games/KAver2/KromAver2.swf </media>
+					</gameMedia>
+					<gameDetail>
+						<gDetail> </gDetail>
+						A galley shooter where an alien race, the Khromulans, dropped their intergalatic cable boxes and you are defending it under the finders vs keepers law. </gameDetail>
+					<playLink>
+						<linkTitle>   </linkTitle>
+						<gameFile>  </gameFile>
+					</playLink>
+				</game> !-->
+				<game>
+					<gameTitle> Tower Jong</gameTitle>
+					<gameBanner type='pic'>content/games/gameTitleThumbs/treasureJong.png </gameBanner>
+					<gameMedia>
+						<media type="flash" width="900" height="700" >content/games/towerJong/TJver0_1.swf </media>
+					</gameMedia>
+					<gameDetail>
+						<gDetail >Monty the treasure hunter has now challenged the Tower! Will he survive with the booty AND his booty intact?</gDetail>
+						<gDetail>CONTROLS: Movement: WASD 1,2 or 3: use corresponding item slot   Left Click: select Tile/grab coins  MECHANICS: Match two tiles that are free(tiles can only be selected if it's left or right side has no tiles and isn't under any tile, clear mounds as quickly as possible to reach the next floor. Match gems to get items! </gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle>   </linkTitle>
+						<gameFile>  </gameFile>
+					</playLink>
+				</game>
+				<game>
+					<gameTitle> Midnight Grotto </gameTitle>
+					<gameBanner type='pic'>content/games/gameTitleThumbs/mNightGTitle.png </gameBanner>
+					<gameMedia>
+						<media type="flash" width="850" height="700" >content/games/MnightGrotto/week1.swf </media>
+					</gameMedia>
+					<gameDetail>
+						<gDetail>An open cave game where you have to rely on echo location and memory to move around. </gDetail>
+						<gDetail>CONTROLS: Movement: Arrows  SPACEBAR: Echo </gDetail>
+					</gameDetail>
+					<playLink>
+						<linkTitle>   </linkTitle>
+						<gameFile>  </gameFile>
+					</playLink>
+				</game>
+	</games>
+
+</mushinContent>

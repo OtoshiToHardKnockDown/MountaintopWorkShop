@@ -1,0 +1,78 @@
+@charset "utf-8";
+@font-face{
+	font-family: lemon;
+	src: url(fonts/LemonTuesday.otf);
+}
+@font-face{
+	font-family: emulogic;
+	src: url(fonts/emulogic.ttf);
+}
+@font-face{
+	font-family: timeburner;
+	src: url(fonts/timeburnernormal.ttf);
+}
+@font-face{
+	font-family: timeburnerB;
+	src: url(fonts/timeburnerbold.ttf);
+}
+@font-face{
+	font-family: vanilla;
+	src: url(fonts/VanillaExtractRegular.ttf);
+}
+
+body{
+	color:#00255a;
+	background-color:#e0e0ee;
+}
+#socialBar{
+	position:fixed;
+	z-index:10;
+	top:92%;
+	left: 200px;
+}
+#footerFade{
+	font-family:"arial";
+	position:fixed;
+	bottom: -5%;
+	font-size:11;
+	left: 0%;
+	z-index:7;
+}
+
+#Mlogo{
+	position:fixed;
+	font-size:11px;
+	top: 20px;
+	left: 56%;
+	z-index:7;
+}
+
+#BLOGcontent{
+	 padding-left: 30px;
+	 padding-right: 50px;
+}
+.blogHead{
+	font-size: 45px;
+	color:#333333;
+	font-family:timeburner;
+}
+.blogDate{
+	font-size: 16px;
+	color:#333333;
+}
+.blogBody{
+	font-size: 20px;
+	color:#444444;
+	font-family:timeburnerB;
+}
+#sectionTitle{
+	font-family:lemon;
+}
+.catLinks{
+	font-size: 25px;
+	color:#EEEEEE;	
+}
+.catTop{
+	font-size: 55px;
+	font-family:lemon;
+	color:#EEEEEE;	}
